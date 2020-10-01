@@ -1,0 +1,11 @@
+name: SimplePlayerPee
+version: 1.0
+author: Yoshiro09_
+main: me.yoshiro09.simpleplayerpee.Main
+description: Aggiungi la possibilita di pisciare in testa a chi vuoi!
+api-version: 1.16
+
+commands:
+  superpee:
+  peemode:
+  peeinfo:

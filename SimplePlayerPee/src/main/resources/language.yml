@@ -1,0 +1,35 @@
+####################################################
+#                     LINGUA                       #
+####################################################
+# Puoi modificare qualsiasi messaggio attraverso   #
+# questo File.                                     #
+# Per ricaricarli senza dover riavviare il Server, #
+# digita il comando '/simpleplayerpee-reload', o   #
+# usa l'alias '/spp-reload' - Permesso necessario: #
+# 'simpleplayerpee.cmd.reload'.                    #
+####################################################
+
+##########
+# PREFIX #
+##########
+prefix: "&7[&eSimplePlayerPee&7]"
+
+############
+# MESSAGGI #
+############
+peemode:
+  livello-acqua-basso: "&7Non è stato possibile attivare la PeeMode, l'acqua presente nel tuo corpo non è sufficiente per farti andare al bagno."
+  modalita-attivata: "&7Hai &aattivato &7con successo la &ePeeMode&7."
+  modalita-disattivata: "&7Hai &cdisattivato &7con successo la &ePeeMode&7."
+  
+superpee:
+  livello-acqua-basso: "&7Non è stato possibile attivarti la SuperPee, l'acqua presente nel tuo corpo non è sufficiente per creare un colpo esplosivo."
+  superpee-attivata: "&7Hai &aattivato &7con successo la &4SuperPee&7."
+  superpee-disattivata: "&7Hai &cdisattivato &7con successo la &4SuperPee&7."
+
+debuff:
+  troppa-acqua: "&7Stai facendo fatica a camminare, la tua vescica sta per esplodere. Per favore vai al bagno prima che sia troppo tardi!"
+  poca-acqua: "&7Stai facendo fatica a camminare, il tuo corpo ha bisogno d'acqua. Per favore bevi dell'acqua/una pozione, oppure mangia una zuppa o dell'anguria, prima che sia troppo tardi!!"
+
+errori:
+  no-permessi: "&7Non hai accesso a questo comando. &6[&7Permesso mancante&8: &e%permesso%&6]"
